@@ -1,10 +1,11 @@
 # Bark and Ambrosia Beetle Pathogen Database
 
-A global literature-derived resource on reported pathogens and parasites associated with bark and ambrosia beetles (Scolytinae).
+A global literature-derived resource on reported pathogens, parasites, and associated organisms of bark and ambrosia beetles (Scolytinae).
 
-> **Pre-release status:** The database is undergoing final quality control. Record classifications, metadata, and summary counts may change before v1.0.
+**Current release: Version 1.0**  
+**DOI:** [10.6084/m9.figshare.33869104](https://doi.org/10.6084/m9.figshare.33869104)
 
-## Current working dataset
+## Version 1.0 dataset
 
 - **1,011** literature-derived records
 - **114** Scolytinae species
@@ -12,12 +13,13 @@ A global literature-derived resource on reported pathogens and parasites associa
 - **289** candidate pathogen or parasite taxa
 - Literature spanning **1914–2026**
 - Fungi, bacteria, viruses, nematodes, protists, and microsporidia
+- Literature search completed **24 July 2026**
 
 ## What this resource captures
 
-The database records reported organism–beetle associations together with metadata on geographic origin, infection site, organism source, identification method, experimental setting, ecological relationship, and validation evidence.
+The database records literature-reported organism–beetle associations together with metadata on geographic origin, infection site, organism source, identification method, experimental setting, ecological relationship, and validation evidence.
 
-A reported association is not automatically equivalent to experimentally confirmed pathogenicity. The evidence structure is designed to keep occurrence, detection, isolation, infection, pathogenicity, and virulence conceptually separate.
+A reported association is not automatically equivalent to experimentally confirmed pathogenicity. The evidence structure keeps association, infection, pathogenicity, virulence, and other validation concepts separate.
 
 ## Documentation
 
@@ -29,7 +31,13 @@ A reported association is not automatically equivalent to experimentally confirm
 
 ## Data availability
 
-The first stable downloadable dataset will be released as **v1.0** after final QA/QC and will be linked from this page together with its archival DOI and formal citation.
+The canonical archived Version 1.0 dataset is deposited on [Figshare](https://doi.org/10.6084/m9.figshare.33869104). A repository copy is also maintained as [`bark_ambrosia_beetle_pathogen_database_v1.0.csv`](bark_ambrosia_beetle_pathogen_database_v1.0.csv).
+
+Interactive browsing is available through the [Bark & Ambrosia Beetle Gallery — Interactions](https://barkandambrosiagallery.org/interactions/). A [companion Notion site](https://app.notion.com/p/ydcn/A-global-database-of-reported-pathogens-and-parasites-associated-with-bark-and-ambrosia-beetles-7e4970ea0cac8346b5a801e41dfd2f16) provides summary figures, grouped views, validation summaries, and references.
+
+## Citation
+
+**Dong, Y., & Hulcr, J. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). Figshare. https://doi.org/10.6084/m9.figshare.33869104**
 
 ## Creator and curator
 
@@ -38,4 +46,4 @@ University of Florida
 
 ## Repository
 
-Source documentation and version history are maintained at the GitHub repository `dongyiyi/bark-ambrosia-beetle-pathogen-database`.
+Source documentation and version history are maintained in the GitHub repository `dongyiyi/bark-ambrosia-beetle-pathogen-database`.
