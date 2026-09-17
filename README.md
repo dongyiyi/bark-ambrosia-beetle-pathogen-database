@@ -51,13 +51,16 @@ For reproducible analyses, users should use the archived, versioned Figshare dat
 
 Please cite this database as:
 
-**Dong, Y. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). Figshare. https://doi.org/10.6084/m9.figshare.33869104**
+**Dong, Y., & Hulcr, J. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). Figshare. https://doi.org/10.6084/m9.figshare.33869104**
 
 When the associated Data Descriptor is published, its citation will be added here as a related publication.
 
-## Creator and curator
+## Authors and roles
 
-**Yiyi Dong**  
+**Yiyi Dong** — database creator and curator  
+University of Florida
+
+**Jiri Hulcr** — dataset co-author  
 University of Florida
 
 ## Feedback
