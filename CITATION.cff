@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this database or its documentation, please cite the archived dataset release and associated publication when available."
+title: "Bark and Ambrosia Beetle Pathogen Database"
+type: dataset
+authors:
+  - family-names: Dong
+    given-names: Yiyi
+repository-code: "https://github.com/dongyiyi/bark-ambrosia-beetle-pathogen-database"
+version: "pre-release"
+date-released: 2026-09-16
+abstract: "A global literature-derived database of reported pathogens and parasites associated with bark and ambrosia beetles (Scolytinae), with metadata describing host associations, geographic coverage, organism identity, identification methods, infection sites, organism sources, experimental settings, and validation evidence."
+keywords:
+  - bark beetles
+  - ambrosia beetles
+  - Scolytinae
+  - entomopathogens
+  - insect pathology
+  - forest entomology
+  - pathogen database
