@@ -11,7 +11,7 @@ Please use GitHub Issues for:
 - duplicate or missing records;
 - incorrect beetle-host associations;
 - geographic metadata problems;
-- incorrect evidence or validation coding;
+- incorrect ecological relationship or validation coding;
 - missing primary literature; or
 - documentation problems.
 
@@ -31,8 +31,10 @@ The database is literature-derived. Corrections should therefore be traceable to
 
 ## Scope note
 
-The database distinguishes reported associations from experimentally demonstrated pathogenicity. Detection, isolation, or co-occurrence alone should not be interpreted as evidence of active infection, pathogenicity, or causation unless the source provides such evidence.
+The database distinguishes reported association and ecological status from experimentally demonstrated infection, pathogenicity, virulence, or transmission. Detection, isolation, or co-occurrence alone should not be interpreted as evidence of active infection, pathogenicity, or causation unless the source provides such evidence.
+
+Associate and symbiont records may be retained when reported in the source literature and are coded according to their ecological relationship rather than being automatically treated as pathogens.
 
 ## Release policy
 
-Accepted corrections will be incorporated into the working database and documented in subsequent public releases. The repository is currently in pre-release QA/QC; stable releases will be versioned and archived.
+Accepted corrections will be incorporated into subsequent public versions and documented in the changelog. The current stable release is Version 1.0, archived on Figshare at [https://doi.org/10.6084/m9.figshare.33869104](https://doi.org/10.6084/m9.figshare.33869104).
