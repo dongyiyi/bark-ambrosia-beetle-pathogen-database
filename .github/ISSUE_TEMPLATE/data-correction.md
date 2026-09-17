@@ -8,7 +8,7 @@ assignees: []
 
 ## Affected record
 
-Please provide the record ID, beetle host, pathogen/parasite name, or enough information to identify the affected entry.
+Please provide the record ID, beetle host, organism name/taxon, or enough information to identify the affected entry.
 
 ## Current value
 
