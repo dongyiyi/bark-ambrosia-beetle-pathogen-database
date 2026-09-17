@@ -2,7 +2,8 @@
 
 A global literature-derived database of reported pathogens and parasites associated with bark and ambrosia beetles (Scolytinae).
 
-**Current release: Version 1.0**
+**Current release: Version 1.0**  
+**DOI:** [10.6084/m9.figshare.33869104](https://doi.org/10.6084/m9.figshare.33869104)
 
 ## Overview
 
@@ -24,6 +25,10 @@ The project focuses on bark and ambrosia beetles in the subfamily **Scolytinae**
 
 ## Data access
 
+### Archived Version 1.0 dataset
+
+The canonical archived Version 1.0 dataset is deposited on [**Figshare**](https://doi.org/10.6084/m9.figshare.33869104) and can be accessed through DOI [**10.6084/m9.figshare.33869104**](https://doi.org/10.6084/m9.figshare.33869104).
+
 ### Interactive browser
 
 The database can be explored through the [**Bark & Ambrosia Beetle Gallery — Interactions**](https://barkandambrosiagallery.org/interactions/), which provides an interactive interface for browsing and filtering records.
@@ -32,7 +37,7 @@ The database can be explored through the [**Bark & Ambrosia Beetle Gallery — I
 
 A [**companion Notion site**](https://app.notion.com/p/ydcn/A-global-database-of-reported-pathogens-and-parasites-associated-with-bark-and-ambrosia-beetles-7e4970ea0cac8346b5a801e41dfd2f16) provides a quick visual overview of the database, summary figures, pathogen-group views, evidence and validation views, references, and links to the database tables.
 
-For reproducible analyses, users should use a versioned release of the dataset rather than relying on a live browsing interface. A frozen Version 1.0 CSV will be added to this repository/release record.
+For reproducible analyses, users should use the archived, versioned Figshare dataset rather than relying on a live browsing interface.
 
 ## Repository structure
 
@@ -46,9 +51,9 @@ For reproducible analyses, users should use a versioned release of the dataset r
 
 Please cite this database as:
 
-**Dong, Y. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). GitHub. https://github.com/dongyiyi/bark-ambrosia-beetle-pathogen-database**
+**Dong, Y. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). Figshare. https://doi.org/10.6084/m9.figshare.33869104**
 
-When a DOI and the associated Data Descriptor are available, the citation above will be updated to include them.
+When the associated Data Descriptor is published, its citation will be added here as a related publication.
 
 ## Creator and curator
 
