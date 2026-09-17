@@ -31,7 +31,7 @@ The canonical archived Version 1.0 dataset is deposited on [**Figshare**](https:
 
 ### Interactive browser
 
-The database can be explored through the [**Bark & Ambrosia Beetle Gallery — Interactions**](https://barkandambrosiagallery.org/interactions/), which provides an interactive interface for browsing and filtering records.
+The database can be explored through the [**Bark & Ambrosia Beetle Gallery**](https://barkandambrosiagallery.org/interactions/), which provides an interactive interface for browsing and filtering records.
 
 ### Visual overview and companion site
 
