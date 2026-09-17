@@ -7,21 +7,21 @@ A global literature-derived database of reported pathogens and parasites associa
 
 ## Overview
 
-Version 1.0 compiles **1,011 literature-derived records** spanning research published from **1914 to 2026**. It includes reported associations involving fungi, bacteria, viruses, nematodes, protists, and microsporidia across **114 Scolytinae species in 29 genera**, representing **289 candidate pathogen or parasite taxa**. The literature search was completed on **24 July 2026**.
+Version 1.0 compiles **1,011 literature-derived records** spanning research published from **1914 to 2026**. It includes reported associations involving fungi, bacteria, viruses, nematodes, protists, and microsporidia across **114 Scolytinae species in 29 genera**, representing **289 reported organism taxa**. The literature search was completed on **24 July 2026**.
 
-These records are literature-derived associations. They should not all be interpreted as experimentally confirmed pathogenic interactions. The database explicitly distinguishes reported ecological relationships from available evidence of infection, pathogenicity, virulence, or other validation.
+These records are literature-derived associations. They should not all be interpreted as experimentally confirmed pathogenic interactions. The database explicitly distinguishes reported ecological relationships, including associate status, from available evidence of infection, pathogenicity, virulence, or other validation.
 
 ## Scope
 
 The project focuses on bark and ambrosia beetles in the subfamily **Scolytinae**. Records were compiled from primary literature and standardized to support comparative analyses of:
 
-- reported pathogen and parasite diversity;
+- reported organism diversity and ecological relationships;
 - beetle-host associations;
 - geographic and temporal coverage;
 - identification methods;
 - infection sites and organism sources;
 - experimental settings; and
-- evidence supporting reported pathogen-host relationships.
+- evidence supporting reported organism-host relationships.
 
 ## Data access
 
@@ -46,8 +46,7 @@ The raw dataset can be found under `docs/` or on the Figshare site.
 
 Please cite this database as:
 
-**Dong, Y., & Hulcr, J. (2026). A global database of reported pathogens and parasites associated with bark and ambrosia beetles. https://doi.org/10.6084/m9.figshare.33869104**
-
+**Dong, Y., & Hulcr, J. (2026). *A global database of reported pathogens and parasites associated with bark and ambrosia beetles.* https://doi.org/10.6084/m9.figshare.33869104**
 
 ## Creator and curator
 
