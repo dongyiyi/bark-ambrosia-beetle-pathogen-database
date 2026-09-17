@@ -8,13 +8,13 @@ The database focuses on bark and ambrosia beetles in the subfamily **Scolytinae*
 
 Records are extracted from primary literature. Reviews, books, book chapters, and synthesis papers may be used to locate or cross-check source literature, but database records are derived from primary sources wherever possible.
 
-The working literature search covers publications from 1914 through 2026 and was closed on 24 July 2026 for the current compilation cycle.
+The literature search covers publications from 1914 through 2026 and was closed on 24 July 2026 for Version 1.0.
 
 ## Inclusion logic
 
-The database includes organisms reported by source authors as pathogens or parasites of Scolytinae beetles. For fungi and bacteria, mere association or symbiosis is not sufficient unless the source explicitly frames the organism as pathogenic. Nematodes, protists, and microsporidia may be retained when reported as parasites or pathogens, with the reported ecological relationship preserved.
+The database retains literature-reported organisms associated with Scolytinae beetles and preserves the ecological status assigned or supported by the source. For fungi and bacteria, records reported only as associates or symbionts are retained but are coded as **associate** rather than as pathogen records unless the source provides evidence or explicitly identifies a pathogenic relationship. Nematodes, protists, microsporidia, and viruses are likewise retained with the reported ecological relationship preserved.
 
-Viruses are included as a distinct category.
+This structure allows reported association to remain distinct from infection, pathogenicity, virulence, and other forms of experimental validation.
 
 ## Record unit
 
