@@ -60,9 +60,6 @@ When the associated Data Descriptor is published, its citation will be added her
 **Yiyi Dong** — database creator and curator  
 University of Florida
 
-**Jiri Hulcr** — dataset co-author  
-University of Florida
-
 ## Feedback
 
 Please use GitHub Issues to report suspected data errors, taxonomic corrections, missing literature, or documentation problems. When reporting a record-level issue, include the relevant literature citation and enough detail to identify the affected record.
