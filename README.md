@@ -2,11 +2,11 @@
 
 A global literature-derived database of reported pathogens and parasites associated with bark and ambrosia beetles (Scolytinae).
 
-> **Repository status:** Pre-release / under active quality control. The database is currently undergoing taxonomic, categorical, and record-level review. Summary counts and metadata may change before the first stable public release (v1.0).
+**Current release: Version 1.0**
 
 ## Overview
 
-The current working dataset compiles **1,011 literature-derived records** spanning research published from **1914 to 2026**. It includes reported associations involving fungi, bacteria, viruses, nematodes, protists, and microsporidia across **114 Scolytinae species in 29 genera**, representing **289 candidate pathogen or parasite taxa**.
+Version 1.0 compiles **1,011 literature-derived records** spanning research published from **1914 to 2026**. It includes reported associations involving fungi, bacteria, viruses, nematodes, protists, and microsporidia across **114 Scolytinae species in 29 genera**, representing **289 candidate pathogen or parasite taxa**. The literature search was completed on **24 July 2026**.
 
 These records are literature-derived associations. They should not all be interpreted as experimentally confirmed pathogenic interactions. The database explicitly distinguishes reported ecological relationships from available evidence of infection, pathogenicity, virulence, or other validation.
 
@@ -22,16 +22,27 @@ The project focuses on bark and ambrosia beetles in the subfamily **Scolytinae**
 - experimental settings; and
 - evidence supporting reported pathogen-host relationships.
 
-## Data release status
+## Data access
 
-A formal downloadable dataset is **not yet released from this repository**. The working database is undergoing final QA/QC, including review of organism categories, taxonomic names, evidence coding, source fidelity, duplicate rules, geographic metadata, and separation of internal curation fields from public-release fields.
+### Interactive browser
 
-The first stable release will be tagged as **v1.0** and will include a frozen public dataset, versioned documentation, and a stable citation record.
+The database can be explored through the Bark & Ambrosia Beetle Gallery:
+
+[Bark & Ambrosia Beetle Gallery — Interactions](https://barkandambrosiagallery.org/interactions/)
+
+This interface is intended for interactive browsing and filtering of records.
+
+### Visual overview and companion site
+
+A companion Notion site provides a quick visual overview of the database, summary figures, pathogen-group views, evidence and validation views, references, and links to the database tables:
+
+[Companion Notion site](https://app.notion.com/p/ydcn/A-global-database-of-reported-pathogens-and-parasites-associated-with-bark-and-ambrosia-beetles-7e4970ea0cac8346b5a801e41dfd2f16)
+
+For reproducible analyses, users should use a versioned release of the dataset rather than relying on a live browsing interface. A frozen Version 1.0 CSV will be added to this repository/release record.
 
 ## Repository structure
 
-- `README.md` — project overview and release status
-- `CITATION.cff` — citation metadata for the repository
+- `README.md` — project overview and data-access links
 - `LICENSE.md` — reuse terms for data and documentation
 - `CHANGELOG.md` — version history
 - `CONTRIBUTING.md` — how to report corrections or missing records
@@ -39,16 +50,16 @@ The first stable release will be tagged as **v1.0** and will include a frozen pu
 
 ## Citation
 
-Citation metadata for this project is provided in `CITATION.cff`. A DOI and formal dataset citation will be added when the first stable archived release is deposited.
+Please cite this database as:
+
+**Dong, Y. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). GitHub. https://github.com/dongyiyi/bark-ambrosia-beetle-pathogen-database**
+
+When a DOI and the associated Data Descriptor are available, the citation above will be updated to include them.
 
 ## Creator and curator
 
 **Yiyi Dong**  
 University of Florida
-
-## Related resource
-
-An interactive browser for bark and ambrosia beetle interactions is being developed through the Bark & Ambrosia Beetle Gallery. The canonical archived dataset and formal citation will be linked here when v1.0 is released.
 
 ## Feedback
 
