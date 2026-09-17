@@ -10,7 +10,7 @@ A global literature-derived resource on reported pathogens, parasites, and assoc
 - **1,011** literature-derived records
 - **114** Scolytinae species
 - **29** beetle genera
-- **289** candidate pathogen or parasite taxa
+- **289** reported organism taxa
 - Literature spanning **1914–2026**
 - Fungi, bacteria, viruses, nematodes, protists, and microsporidia
 - Literature search completed **24 July 2026**
@@ -19,7 +19,7 @@ A global literature-derived resource on reported pathogens, parasites, and assoc
 
 The database records literature-reported organism–beetle associations together with metadata on geographic origin, infection site, organism source, identification method, experimental setting, ecological relationship, and validation evidence.
 
-A reported association is not automatically equivalent to experimentally confirmed pathogenicity. The evidence structure keeps association, infection, pathogenicity, virulence, and other validation concepts separate.
+A reported association is not automatically equivalent to experimentally confirmed pathogenicity. The evidence structure keeps association, ecological status, infection, pathogenicity, virulence, and other validation concepts separate.
 
 ## Documentation
 
@@ -37,7 +37,7 @@ Interactive browsing is available through the [Bark & Ambrosia Beetle Gallery �
 
 ## Citation
 
-**Dong, Y., & Hulcr, J. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). Figshare. https://doi.org/10.6084/m9.figshare.33869104**
+**Dong, Y., & Hulcr, J. (2026). *A global database of reported pathogens and parasites associated with bark and ambrosia beetles.* https://doi.org/10.6084/m9.figshare.33869104**
 
 ## Creator and curator
 
