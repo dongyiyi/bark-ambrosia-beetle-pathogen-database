@@ -39,13 +39,8 @@ A [**companion Notion site**](https://app.notion.com/p/ydcn/A-global-database-of
 
 For reproducible analyses, users should use the archived, versioned Figshare dataset rather than relying on a live browsing interface.
 
-## Repository structure
-
-- `README.md` — project overview and data-access links
-- `LICENSE.md` — reuse terms for data and documentation
-- `CHANGELOG.md` — version history
-- `CONTRIBUTING.md` — how to report corrections or missing records
-- `docs/` — documentation prepared for GitHub Pages and the raw dataset
+## Dataset
+The raw dataset can be found under `docs/` or on the Figshare site.
 
 ## Citation
 
