@@ -15,7 +15,3 @@ For scholarly reuse, please cite the archived dataset release and associated pub
 ## Third-party material
 
 This license applies only to material created or compiled for this repository. It does not override copyright or licensing restrictions associated with the underlying publications, figures, full-text articles, or other third-party source materials cited by the database.
-
-## Software
-
-If software or analysis scripts are added later, their license may be specified separately.
