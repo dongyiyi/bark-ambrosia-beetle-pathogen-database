@@ -50,9 +50,9 @@ Please cite this database as:
 
 When the associated Data Descriptor is published, its citation will be added here as a related publication.
 
-## Authors and roles
+## Creator and curator
 
-**Yiyi Dong** — database creator and curator  
+**Yiyi Dong**  
 University of Florida
 
 ## Feedback
