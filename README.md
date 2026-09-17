@@ -26,17 +26,11 @@ The project focuses on bark and ambrosia beetles in the subfamily **Scolytinae**
 
 ### Interactive browser
 
-The database can be explored through the Bark & Ambrosia Beetle Gallery:
-
-[Bark & Ambrosia Beetle Gallery — Interactions](https://barkandambrosiagallery.org/interactions/)
-
-This interface is intended for interactive browsing and filtering of records.
+The database can be explored through the [**Bark & Ambrosia Beetle Gallery — Interactions**](https://barkandambrosiagallery.org/interactions/), which provides an interactive interface for browsing and filtering records.
 
 ### Visual overview and companion site
 
-A companion Notion site provides a quick visual overview of the database, summary figures, pathogen-group views, evidence and validation views, references, and links to the database tables:
-
-[Companion Notion site](https://app.notion.com/p/ydcn/A-global-database-of-reported-pathogens-and-parasites-associated-with-bark-and-ambrosia-beetles-7e4970ea0cac8346b5a801e41dfd2f16)
+A [**companion Notion site**](https://app.notion.com/p/ydcn/A-global-database-of-reported-pathogens-and-parasites-associated-with-bark-and-ambrosia-beetles-7e4970ea0cac8346b5a801e41dfd2f16) provides a quick visual overview of the database, summary figures, pathogen-group views, evidence and validation views, references, and links to the database tables.
 
 For reproducible analyses, users should use a versioned release of the dataset rather than relying on a live browsing interface. A frozen Version 1.0 CSV will be added to this repository/release record.
 
