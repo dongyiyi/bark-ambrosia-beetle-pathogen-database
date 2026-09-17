@@ -6,7 +6,7 @@ The project was developed to make more than a century of scattered insect-pathol
 
 ## Current scope
 
-Version 1.0 contains 1,011 records drawn from primary literature published between 1914 and 2026. It covers 114 beetle species in 29 genera and 289 candidate pathogen or parasite taxa across fungi, bacteria, viruses, nematodes, protists, and microsporidia. The literature search for Version 1.0 was completed on 24 July 2026.
+Version 1.0 contains 1,011 records drawn from primary literature published between 1914 and 2026. It covers 114 beetle species in 29 genera and 289 reported organism taxa across fungi, bacteria, viruses, nematodes, protists, and microsporidia. The literature search for Version 1.0 was completed on 24 July 2026.
 
 ## Interpretation
 
