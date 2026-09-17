@@ -1,27 +1,27 @@
 # Release and version policy
 
-## Pre-release phase
+## Current stable release
 
-The repository is currently in a pre-release QA/QC phase. Working counts, classifications, and metadata may change until the first stable release is frozen.
+The current stable public version is **Version 1.0**. The canonical archived copy is deposited on Figshare at [https://doi.org/10.6084/m9.figshare.33869104](https://doi.org/10.6084/m9.figshare.33869104).
 
-## Stable releases
+## Versioning
 
-Stable public releases will use semantic-style version tags, beginning with **v1.0.0**. Each stable release should include:
+Stable public releases use semantic-style versioning. The Version 1.0 database corresponds to the first stable release in the `v1.0.x` series.
 
-- a frozen public dataset;
-- the matching data dictionary;
-- versioned documentation;
-- a changelog entry; and
-- a stable archival citation/DOI when available.
+- Patch releases (for example, `v1.0.1`) are reserved for minor metadata corrections that do not change the conceptual schema.
+- Minor releases (for example, `v1.1.0`) may add substantial new literature-derived records or metadata while preserving backward compatibility.
+- Major releases (for example, `v2.0.0`) may introduce substantial schema or conceptual changes.
 
 ## Public schema
 
-Stable releases will contain only fields approved for public dissemination. Internal curation notes, temporary review URLs, private full-text links, and other workflow-only fields will be excluded.
+Stable releases contain only fields approved for public dissemination. Internal curation notes, temporary review URLs, private full-text links, and other workflow-only fields are excluded.
 
-## Corrections
+## Archival policy
 
-Minor metadata corrections that do not alter the conceptual schema may be released as patch versions (for example, v1.0.1). Larger additions or schema changes may be released as minor or major versions.
+Each stable release should be preserved as a frozen archival copy with matching documentation and a stable citation. Figshare serves as the canonical archive for Version 1.0. GitHub is used for documentation, version history, issue tracking, and a repository copy of the public dataset.
 
 ## Citation
 
-Users should cite the specific archived release used in their analysis. The canonical citation and DOI will be added when the first stable version is deposited.
+Users should cite the specific archived release used in their analysis. For Version 1.0, cite:
+
+**Dong, Y., & Hulcr, J. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). Figshare. https://doi.org/10.6084/m9.figshare.33869104**
