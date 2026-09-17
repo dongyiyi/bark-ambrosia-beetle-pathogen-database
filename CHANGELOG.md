@@ -2,11 +2,11 @@
 
 All notable public changes to the Bark and Ambrosia Beetle Pathogen Database will be documented here.
 
-## [Unreleased]
+## Future updates
 
-No unreleased public changes are currently documented.
+No additional public changes are currently documented.
 
-## [1.0.0] - 2026-09-17
+## Version 1.0 - 2026-09-17
 
 ### Added
 - First stable public version of the Bark and Ambrosia Beetle Pathogen Database.
