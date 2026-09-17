@@ -8,9 +8,9 @@ License text: https://creativecommons.org/licenses/by/4.0/
 
 ## Citation and attribution
 
-For scholarly reuse, please cite the archived dataset release and associated publication when these become available. Until then, please credit:
+For scholarly reuse, please cite the archived Version 1.0 dataset:
 
-> Dong, Y. Bark and Ambrosia Beetle Pathogen Database. Pre-release repository.
+> Dong, Y., & Hulcr, J. (2026). *Bark and Ambrosia Beetle Pathogen Database* (Version 1.0). Figshare. https://doi.org/10.6084/m9.figshare.33869104
 
 ## Third-party material
 
