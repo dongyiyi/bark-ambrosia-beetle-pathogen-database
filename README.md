@@ -45,7 +45,7 @@ For reproducible analyses, users should use the archived, versioned Figshare dat
 - `LICENSE.md` — reuse terms for data and documentation
 - `CHANGELOG.md` — version history
 - `CONTRIBUTING.md` — how to report corrections or missing records
-- `docs/` — documentation prepared for GitHub Pages
+- `docs/` — documentation prepared for GitHub Pages and the raw dataset
 
 ## Citation
 
