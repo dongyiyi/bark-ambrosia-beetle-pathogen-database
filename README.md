@@ -7,7 +7,7 @@ A global literature-derived database of reported pathogens and parasites associa
 
 ## Overview
 
-Version 1.0 compiles **1,011 literature-derived records** spanning research published from **1914 to 2026**. It includes reported associations involving fungi, bacteria, viruses, nematodes, protists, and microsporidia across **114 Scolytinae species in 29 genera**, representing **289 reported organism taxa**. The literature search was completed on **24 July 2026**.
+Version 1.0 compiles **1,011 literature-derived records** spanning research published from **1914 to 2026**. It includes reported associations involving fungi, bacteria, viruses, nematodes, protists, and microsporidia across **114 Scolytinae species in 29 genera**, representing **285 reported organism taxa**. The literature search was completed on **24 July 2026**.
 
 These records are literature-derived associations. They should not all be interpreted as experimentally confirmed pathogenic interactions. The database explicitly distinguishes reported ecological relationships, including associate status, from available evidence of infection, pathogenicity, virulence, or other validation.
 
