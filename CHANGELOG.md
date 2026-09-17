@@ -10,7 +10,7 @@ No additional public changes are currently documented.
 
 ### Added
 - First stable public version of the Bark and Ambrosia Beetle Pathogen Database.
-- 1,011 literature-derived records covering 114 Scolytinae species in 29 genera and 289 reported organism taxa.
+- 1,011 literature-derived records covering 114 Scolytinae species in 29 genera and 285 reported organism taxa.
 - Literature coverage spanning 1914–2026, with the Version 1.0 literature search completed on 24 July 2026.
 - Public metadata covering organism identity, beetle host, geography, ecological relationship, experimental context, identification method, infection site, organism source, validation evidence, and source literature.
 - Versioned documentation, data dictionary, evidence/validation guidance, contribution instructions, and issue templates.
