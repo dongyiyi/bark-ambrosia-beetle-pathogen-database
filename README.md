@@ -46,7 +46,7 @@ The raw dataset can be found under `docs/` or on the Figshare site.
 
 Please cite this database as:
 
-**Dong, Y., & Hulcr, J. (2026). *A global database of reported pathogens and parasites associated with bark and ambrosia beetles. Figshare. https://doi.org/10.6084/m9.figshare.33869104**
+**Dong, Y., & Hulcr, J. (2026). A global database of reported pathogens and parasites associated with bark and ambrosia beetles. https://doi.org/10.6084/m9.figshare.33869104**
 
 
 ## Creator and curator
