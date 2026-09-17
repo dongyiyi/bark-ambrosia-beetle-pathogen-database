@@ -14,7 +14,7 @@ Please provide the full citation, DOI, or stable source link if available.
 
 List the Scolytinae host species involved.
 
-## Relevant pathogen or parasite
+## Relevant organism(s)
 
 List the organism(s) reported in the source.
 
